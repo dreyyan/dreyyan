@@ -72,7 +72,7 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=dreyyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=dreyyan&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreyyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
@@ -80,19 +80,19 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://github-contributor-stats.vercel.app/api?username=dreyyan&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://github-profile-trophy.vercel.app?username=dreyyan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
