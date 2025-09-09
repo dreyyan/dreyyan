@@ -1,74 +1,7 @@
 <h1 align="center">👋 Hi, I'm Adrian Tan</h1>
 <h3 align="center">🚀 Aspiring Full-Stack Web Developer | 📊 Data Scientist | 🤖 ML Engineer</h3>
 
-###
-
-<div align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
-  <img width="12" />
-
-  <!-- Web Dev -->
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo" />
-  <img width="12" />
-
-  <!-- Backend & Databases -->
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo" />
-  <img width="12" />
-
-  <!-- Data Science -->
-  <img src="https://skillicons.dev/icons?i=scikitlearn" height="60" alt="scikit-learn logo" />
-  <img width="12" />
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="60" alt="premiere pro logo" />
-  <img width="12" />
-
-  <!-- Game Dev -->
-  <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="60" alt="unreal engine logo" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,ts,html,css,java,py,php,react,nextjs,tailwind,vite,nodejs,flask,firebase,mysql,sqlite,scikitlearn,git,github,npm,figma,pr,unity,unreal&perline=18)]()
 
 ###
 
