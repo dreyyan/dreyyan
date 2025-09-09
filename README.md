@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Dominic Tan</h1>
+<h2 align="center">An aspring Data Scientist / Machine Learning (ML) Engineer</h2>
 
 ###
 
@@ -48,6 +49,8 @@
 ###
 
 <picture>
+  <!-- Pac-Man contribution graph -->
+  <!-- Make sure your workflow runs and pushes SVGs to the 'output' branch -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dreyyan/dreyyan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dreyyan/dreyyan/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/dreyyan/dreyyan/output/pacman-contribution-graph.svg">
